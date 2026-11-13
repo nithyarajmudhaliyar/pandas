@@ -1,0 +1,31 @@
+order_id,customer_name,city,product,category,quantity,unit_price_inr,order_date,status
+1001,Aarav,Bengaluru,Laptop,Electronics,1.0,58999.0,2026-01-05,Delivered
+1002,Diya,Mumbai,Headphones,Electronics,2.0,2499.0,2026-01-06,Delivered
+1003,Kabir,Delhi,Desk,Furniture,1.0,8999.0,2026-01-07,Shipped
+1004,Meera,Pune,Notebook,Stationery,5.0,120.0,2026-01-08,Delivered
+1005,Ishaan,Bengaluru,Mouse,Electronics,1.0,799.0,2026-01-09,Cancelled
+1006,Anaya,,Chair,Furniture,2.0,5499.0,2026-01-10,Delivered
+1007,Rohan,Chennai,Water Bottle,Home,3.0,499.0,2026-01-11,Shipped
+1008,Sara,Mumbai,Monitor,Electronics,1.0,12999.0,2026-01-12,Delivered
+1009,Vivaan,Delhi,Pen Set,Stationery,4.0,199.0,2026-01-13,Delivered
+1010,Aditi,Pune,Table,Furniture,1.0,7499.0,2026-01-14,Returned
+1011,Arjun,Bengaluru,Keyboard,Electronics,1.0,1599.0,2026-01-15,Delivered
+1012,Myra,Hyderabad,Lamp,Home,,1299.0,2026-01-16,Shipped
+1013,Reyansh,Chennai,Backpack,Accessories,1.0,1899.0,2026-01-17,Delivered
+1014,Ira,Delhi,Sticky Notes,Stationery,6.0,75.0,2026-01-18,Delivered
+1015,Dev,Mumbai,Smartphone,Electronics,1.0,32999.0,2026-01-19,Shipped
+1016,Tara,Pune,Sofa,Furniture,1.0,25999.0,2026-01-20,Delivered
+1017,Advik,Bengaluru,USB Cable,Electronics,3.0,299.0,2026-01-21,Delivered
+1018,Kiara,Chennai,Mug,Home,2.0,349.0,2026-01-22,Cancelled
+1019,Neil,Hyderabad,Webcam,Electronics,1.0,3499.0,2026-01-23,Delivered
+1020,Saanvi,Delhi,Highlighter,Stationery,3.0,,2026-01-24,Shipped
+1021,Atharv,Mumbai,Bookshelf,Furniture,1.0,6499.0,2026-01-25,Delivered
+1022,Riya,Pune,Power Bank,Electronics,1.0,2199.0,2026-01-26,Returned
+1023,Krish,Bengaluru,Mouse Pad,Accessories,2.0,399.0,2026-01-27,Delivered
+1024,Mira,Chennai,Storage Box,Home,4.0,599.0,2026-01-28,Shipped
+1025,Yash,Delhi,Printer,Electronics,1.0,8999.0,2026-01-29,Delivered
+1026,Avni,Hyderabad,File Folder,Stationery,2.0,89.0,2026-01-30,Delivered
+1027,Dhruv,Mumbai,Study Desk,Furniture,1.0,10999.0,2026-02-01,Shipped
+1028,Nisha,Pune,Earbuds,Electronics,1.0,3999.0,2026-02-02,Delivered
+1029,Om,Bengaluru,Wall Clock,Home,1.0,999.0,2026-02-03,Delivered
+1030,Zoya,Chennai,Tote Bag,Accessories,2.0,699.0,2026-02-04,Shipped
